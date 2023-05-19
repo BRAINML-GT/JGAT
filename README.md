@@ -1,5 +1,5 @@
 # JGAT
-This is the demo code for the paper: JGAT: A Joint Spatio-Temporal Graph Attention Model for Brain Decoding, implemented by tensorflow on the Google Colab with GPU.
+This is the demo code for the paper: JGAT: A Joint Spatio-Temporal Graph Attention Model for Brain Decoding, implemented by the Tensorflow.
 
 General_A.mat file contains the summation of 200 by 200 binary adjacency matrices from 48 subjects. Selecting a threshold between 0 to 48 can control the number of edges and extreact a General adjacency matrix.
 
